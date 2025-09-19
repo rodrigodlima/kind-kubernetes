@@ -1,2 +1,3 @@
 # kind-kubernetes
-Repo com exemplos de config do cluster Kubernetes com Kind
+
+kind create cluster --config=kind-config.yaml
